@@ -1,0 +1,11 @@
+# European Union Public License 1.2
+:icons: font
+
+This repository contains the _European Union Public License_ (EUPL) in version 1.2 in following formats
+
+Plain Text:: -> link:LICENCE[]
+AsciiDoc:: -> link:LICENCE.adoc[]
+
+[NOTE]
+https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12[The EUPL is available in all the official languages of the European Union.]
+From there the text of this repository's `LICENCE` files were taken.
