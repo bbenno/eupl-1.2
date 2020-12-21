@@ -9,3 +9,6 @@ AsciiDoc:: -> link:LICENCE.adoc[]
 [NOTE]
 https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12[The EUPL is available in all the official languages of the European Union.]
 From there the text of this repository's `LICENCE` files were taken.
+
+[TIP]
+https://joinup.ec.europa.eu/collection/eupl/guidelines-users-and-developers[Guidelines for users and developers]
